@@ -14,7 +14,7 @@
 |    column1   |    column2    |
 |   column1    |   column2    |
 
-- [×] unordered list
-- [] and
-- [] and
-- [] and
+- [x] task list
+- [ ] and
+- [x] and
+- [ ] and
